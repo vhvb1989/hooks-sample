@@ -12,4 +12,4 @@ hooks:
     shell: pwsh
     run: ./hooks/postprovision.ps1
     continueOnError: false
-    interactive: false
+    interactive: true
